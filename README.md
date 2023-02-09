@@ -1,6 +1,7 @@
 <h1 align="center">Hi visitor, you can just call me Solari !</h1>
+<br>
 <p align="center">
-With a strong background in engineering and a passion for programming, I am excited to bring my expertise and experience to a new opportunity. As an engineering student at Esprit, I have a solid foundation in the field of information systems development. My past experiences include different traineeships and projects, where I gained hands-on experience working with a variety of programming languages and frameworks, including Java for Android native applications, PHP with Laravel/Symfony and Livewire for dynamic web applications, Angular, Spring boot, React, Express Js, Flutter, and Django.<br><br>
+With a strong background in engineering and a passion for programming, I am excited to bring my expertise and experience to a new opportunity. As an engineering student at Esprit, I have a solid foundation in the field of information systems development.<br>My past experiences include different traineeships and projects, where I gained hands-on experience working with a variety of programming languages and frameworks, including Java for Android native applications, PHP with Laravel/Symfony and Livewire for dynamic web applications, Angular, Spring boot, React, Express Js, Flutter, and Django.<br><br>
 I am highly skilled in SQL databases and system modeling, and my ability to quickly learn new technologies and frameworks makes me an asset to any organization. I am particularly drawn to the logic and state of the art behind each language and framework, and I am always eager to explore new opportunities to grow and develop my skills.<br><br>
 </p>
 <h2 align="center"><u>Skills</u></h2>
