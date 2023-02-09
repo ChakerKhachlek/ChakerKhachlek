@@ -36,8 +36,8 @@ If you are looking for a highly motivated and results-driven professional with a
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-   
   </kbd>
+  <br>
   <br>
   <kbd>
     <kbd>Languages</kbd>
@@ -68,7 +68,7 @@ If you are looking for a highly motivated and results-driven professional with a
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img width="30px" src="https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-    <img width="30px" src="[https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyn4G41p6ZLg23IE-pJXTYwq3KHfvsemjWsujUBzuFfCh_ETjc5vXgXvV8CRABbpOUyxo&usqp=CAU)" />
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" />
     <img width="30px" src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
   </kbd>
   <kbd>
