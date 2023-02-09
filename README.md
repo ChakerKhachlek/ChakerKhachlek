@@ -1,4 +1,4 @@
-<h1 align="center">Hi visitor, I'm Chaker Khachlek!</h1>
+<h1 align="center">Hi visitor, you can just call me Solari!</h1>
 <p align="center">
 With a strong background in engineering and a passion for programming, I am excited to bring my expertise and experience to a new opportunity. As an engineering student at Esprit, I have a solid foundation in the field of information systems development. My past experiences include different traineeships and projects, where I gained hands-on experience working with a variety of programming languages and frameworks, including Java for Android native applications, PHP with Laravel/Symfony and Livewire for dynamic web applications, Angular, Spring boot, React, Express Js, Flutter, and Django.<br><br>
 I am highly skilled in SQL databases and system modeling, and my ability to quickly learn new technologies and frameworks makes me an asset to any organization. I am particularly drawn to the logic and state of the art behind each language and framework, and I am always eager to explore new opportunities to grow and develop my skills.<br><br>
@@ -50,7 +50,16 @@ If you are looking for a highly motivated and results-driven professional with a
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-          
+  </kbd>
+  
+  <kbd>
+    <kbd>Databases</kbd>
+    <br>
+    <br> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
   </kbd>
 
   <kbd>
@@ -59,7 +68,8 @@ If you are looking for a highly motivated and results-driven professional with a
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img width="30px" src="https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png">
+    <img width="30px" src="[https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyn4G41p6ZLg23IE-pJXTYwq3KHfvsemjWsujUBzuFfCh_ETjc5vXgXvV8CRABbpOUyxo&usqp=CAU)" />
+    <img width="30px" src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
   </kbd>
   <kbd>
     <kbd>OS</kbd>
