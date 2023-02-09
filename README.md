@@ -34,9 +34,12 @@
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original-wordmark.svg" />
+          
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" />
+    
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+          
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -73,7 +76,7 @@
 </p>
 
 
-
+<br>
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChakerKhachlek&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10">
@@ -84,15 +87,18 @@
 </p>
 
 
-
+<br>
+<br>
 ### Contact me:
 
-<a href="https://github.com/ChakerKhachlek" target="_blank"></a>
+<a href="https://github.com/ChakerKhachlek" target="_blank">Github</a>
 
-<a href="https://facebook.com/Solari2666" target="_blank"></a>
+<a href="https://facebook.com/Solari2666" target="_blank">Facebook</a>
 
-<a href="https://m.me/Solari2666" target="_blank"></a>
+<a href="https://m.me/Solari2666" target="_blank">Messenger</a>
 
-<a href="mailto:chaker_khachlek@esprit.tn" target="_blank"></a>
+<a href="https://www.linkedin.com/in/chaker-khachlek-4894821a3" target="_blank">Linkedin</a>
+
+<a href="mailto:chaker_khachlek@outlook.com" target="_blank">Mail</a>
 
 
