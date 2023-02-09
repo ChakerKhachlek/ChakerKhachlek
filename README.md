@@ -4,13 +4,7 @@ With a strong background in engineering and a passion for programming, I am exci
 I am highly skilled in SQL databases and system modeling, and my ability to quickly learn new technologies and frameworks makes me an asset to any organization. I am particularly drawn to the logic and state of the art behind each language and framework, and I am always eager to explore new opportunities to grow and develop my skills.<br><br>
 If you are looking for a highly motivated and results-driven professional with a passion for programming and a solid background in engineering, please feel free to connect with me on LinkedIn to discuss potential opportunities.<br>
 </p>
-<h2 align="center"><u>Personal Details</u></h2>
-<p align="center">
-
- - My hobbies are reading books, listening music, playing games.
-
-</p>
-
+<h2 align="center"><u>Details</u></h2>
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Front-end</kbd>
