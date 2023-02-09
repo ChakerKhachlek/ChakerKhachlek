@@ -99,13 +99,13 @@
 Contact me:
  <br>
 <a href="https://github.com/ChakerKhachlek" target="_blank">Github</a>
-
+ <br>
 <a href="https://facebook.com/Solari2666" target="_blank">Facebook</a>
-
+ <br>
 <a href="https://m.me/Solari2666" target="_blank">Messenger</a>
-
+ <br>
 <a href="https://www.linkedin.com/in/chaker-khachlek-4894821a3" target="_blank">Linkedin</a>
-
+ <br>
 <a href="mailto:chaker_khachlek@outlook.com" target="_blank">Mail</a>
 
 
