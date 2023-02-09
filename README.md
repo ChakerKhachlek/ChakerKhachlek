@@ -1,6 +1,6 @@
 <h1 align="center">Hi visitor, I'm Chaker Khachlek!</h1>
 <p align="center">
-<a href="#" target="_blank"><img align="center" src="#" alt="Solari Portfolio" height="100" width="100"></a>
+
 </p>
 <h3 align="center">Formerly a an engineering student but passionate in programming</h3>
 <h2 align="center"><u>Personal Details</u></h2>
@@ -87,12 +87,12 @@
 
 ### Contact me:
 
-<a href="https://github.com/ChakerKhachlek" target="_blank"><img src="https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/ChakerKhachlek" target="_blank"></a>
 
-<a href="https://facebook.com/Solari2666" target="_blank"><img src="https://img.shields.io/badge/FaceBook-KasRoudra-purple?style=for-the-badge&logo=facebook"></a>
+<a href="https://facebook.com/Solari2666" target="_blank"></a>
 
-<a href="https://m.me/Solari2666" target="_blank"><img src="https://img.shields.io/badge/Messenger-KasRoudra-red?style=for-the-badge&logo=messenger"></a>
+<a href="https://m.me/Solari2666" target="_blank"></a>
 
-<a href="mailto:chaker_khachlek@esprit.tn" target="_blank"><img src="https://img.shields.io/badge/Email-kasroudrakrd@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
+<a href="mailto:chaker_khachlek@esprit.tn" target="_blank"></a>
 
 
