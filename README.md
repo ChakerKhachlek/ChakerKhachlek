@@ -22,6 +22,8 @@ I am highly skilled in SQL databases and system modeling, and my ability to quic
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" />
   </kbd>
+  <br>
+  <br>
   <kbd>
     <kbd>Library/FrameWorks</kbd>
     <br>
@@ -52,7 +54,8 @@ I am highly skilled in SQL databases and system modeling, and my ability to quic
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   </kbd>
-  
+  <br>
+  <br>
   <kbd>
     <kbd>Databases</kbd>
     <br>
@@ -72,6 +75,8 @@ I am highly skilled in SQL databases and system modeling, and my ability to quic
     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" />
     <img width="30px" src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
   </kbd>
+  <br>
+  <br>
   <kbd>
     <kbd>OS</kbd>
     <br>
