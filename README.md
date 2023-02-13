@@ -119,6 +119,7 @@ I am highly skilled in SQL databases and system modeling, and my ability to quic
 
 <br>
 <br>
+<center>
 Contact me:
  <br>
 <a href="https://github.com/ChakerKhachlek" target="_blank">Github</a>
@@ -130,5 +131,7 @@ Contact me:
 <a href="https://www.linkedin.com/in/chaker-khachlek-4894821a3" target="_blank">Linkedin</a>
  <br>
 <a href="mailto:chaker_khachlek@outlook.com" target="_blank">Mail</a>
+</center>
+
 
 
